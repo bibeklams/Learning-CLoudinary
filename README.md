@@ -1,16 +1,15 @@
-Cloudinary Image Upload Project
-
+## Cloudinary Image Upload Project
 
 
 This is a Node.js & Express.js project that demonstrates uploading images to Cloudinary and storing the image URLs in MongoDB. Users can view all uploaded images on a dashboard.
 
 The project uses Multer, CloudinaryStorage, EJS templates, and dotenv for configuration.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 You can see the project live here: https://learning-c-loudinary.vercel.app
 
-🛠 Features
+## 🛠 Features
 
 Upload images directly to Cloudinary.
 
@@ -22,7 +21,7 @@ Simple EJS frontend for upload and viewing.
 
 Fully functional local development setup.
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 Node.js
 
@@ -40,7 +39,7 @@ EJS (for templating)
 
 dotenv (for environment variables)
 
-📂 Project Structure
+## 📂 Project Structure
 cloudinary-practice/
 ├─ app.js
 ├─ router/
